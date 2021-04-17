@@ -116,7 +116,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - vendedores
 
-|assunto|vendedor_id|descricao|status|data_criacao_chamado|
-|       |           |         |      |                    |
+|nome|email|qtd_chamados_aberto|qtd_chamados_andameto|qtd_chamados_resolvido|qtd_chamados_atrasdo|
+|    |     |                   |                     |                      |                    |
 
 
